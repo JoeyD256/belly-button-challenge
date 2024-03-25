@@ -89,25 +89,3 @@ function displayMetadata(sampleId) {
 }
 // Initialize the dashboard
 init();
-
-
-// function bargraph(sample_id){
-//     d3.json(url).then(function(data){
-//         let samples = data.samples;
-//         let filtered = samples.filter(Obj => Obj.id == sample_id);
-//         let sample_result = filtered[0];
-//         let otu_ids = sample_result.otu_ids;
-//         let sample_values = sample_result.sample_values;
-          
-//           var trace2 = {
-//             x: sample_values,
-//             y: otu_ids,
-//             type: 'bar'
-//           };
-          
-//           var layout = {title: 'group'};
-          
-//           Plotly.newPlot('bar', trace2, layout);
-//     })}
-
-// bargraph();
