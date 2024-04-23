@@ -1,7 +1,10 @@
 # belly-button-challenge
 
 ## Overview
+For this assignment, I was tasked with building an interactive dashboard to explore the "Belly BUtton Biodiversity dataset" which catologs the microbes that colonize human navels.
+The dataset reveals that a minute amount of microbial species, also refered to as "operational toxonomic units," or OTUs, were present in more than 70% of people, while the rest were rare.
 
+Dataset: 
 
 For this challenge, I relied heavily on the assistance of others. I had a tutor session with a gentlement named Paddington who helped me populate the dropdown menu.
 We also used sources such as stackoverflow and w3 schools to point me in the right direction.
