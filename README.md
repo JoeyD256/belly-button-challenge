@@ -20,4 +20,4 @@ The variety of OTUs across the different subject ID's isn't that significant wit
 For this challenge, I recieved assistance from others. I utilized a tutor session with a gentlemen named Paddington who helped me populate the dropdown menu.
 We also used sources such as stackoverflow and w3 schools to help refresh my knowledge on the D3 libaray and point me in the right direction.
 
-Also, for the rest of the assignment, (the barchart, demographic info, and bubble chart) I worked with a classmate.
+Also, for the barchart, demographic info, and bubble chart I worked with a classmate and we helped each other in creating these visuals.
