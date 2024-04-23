@@ -17,7 +17,7 @@ Finally, I created another function called "displayMetadata" to display the meta
 The variety of OTUs across the different subject ID's isn't that significant with certain OTUs noticably occuring in multiple subjects. Such as 1795, consistantly being within the top 5 of most subjects, as well as 944, and 922 having multiple appearences across the subjects. An important thing to note, is that this analysis shows that a small number of subjects record less OTUs than others. This can be a variety of different factors such an error in the dataset wheras data was not accuratly recorded, or those were the only OTUs found in the subject.
 
 ## Others to Credit for this Project
-For this challenge, I recieved from others. I utilized a tutor session with a gentlemen named Paddington who helped me populate the dropdown menu.
+For this challenge, I recieved assistance from others. I utilized a tutor session with a gentlemen named Paddington who helped me populate the dropdown menu.
 We also used sources such as stackoverflow and w3 schools to help refresh my knowledge on the D3 libaray and point me in the right direction.
 
 Also, for the rest of the assignment, (the barchart, demographic info, and bubble chart) I worked with a classmate.
