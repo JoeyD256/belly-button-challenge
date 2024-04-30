@@ -6,7 +6,7 @@ The dataset reveals that a minute amount of microbial species, also refered to a
 
 Dataset: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json
 
-## Building the Dashbaord
+## Building the Dashboard
 This assignment was to test my skills using the D3 library in JavaScript. I started by reading in the json file (line 2), and populating the dropdown menu with the ID numbers of the test subjects by creating a function to initialize the dashboard by fetching the JSON data (lines 15 to 17), then parsing through the JSON file to populate the dropdown menu with the sample ID's (Lines 4 to 10). Then I displayed the initial charts and metadata (lines 26 to 30)
 
 Next I had to create a function that updated the charts based on which sample ID was selected in the dropdown menu. So I created a function called "updateCharts" (line 37) and this function monitored the selected sample ID, and updated the charts based on what it was reading (lines 38 to 74)
